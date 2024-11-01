@@ -1,0 +1,12 @@
+bin
+obj
+*.lock
+/packages
+*.ide
+.idea/
+.vscode
+.vs
+*.DotSettings.user
+fail*.txt
+riderModule.iml
+/_ReSharper.Caches/
